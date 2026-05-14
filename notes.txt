@@ -1,0 +1,4 @@
+isNull() → missing data check
+contains() → format validation
+
+
