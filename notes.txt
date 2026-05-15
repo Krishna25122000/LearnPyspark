@@ -1,4 +1,3 @@
 isNull() → missing data check
 contains() → format validation
-
-
+withcolum is used to create a new column
